@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Minnie — Data Enthusiast from Canberra, ACT
 
-<!--
-**tuenguyen1508-lang/tuenguyen1508-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year **Business Informatics** student majoring in **Data Science**, currently seeking a **Data Analysis internship/junior role** to gain hands-on industry experience and further strengthen my skills in data analysis and data visualization.
 
-Here are some ideas to get you started:
+I am passionate about contributing to a collaborative team environment while building a strong foundation for a future career as a **Data Analyst** and aspiring **Data Engineer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 Analytical Skills & Experience
+
+- Proficient in **DAX** (including time-intelligence), **data storytelling** (color theory, chart selection, narrative structure), **Power Query** for data transformation, and **Power BI Service** for dashboard automation & publishing.  
+- Advanced **Excel** user with experience in **VBA macros** and complex formulas for workflow automation.
+- Strong practical skills in **SQL** for data extraction, cleaning, joins, and analytical queries (aggregations, subqueries, and window functions) across relational databases.
+- Strong foundation in **statistics and mathematics** for data analysis and data science, including machine learning methods such as **CNNs**, **SVM**, and **linear regression** for forecasting.  
+- Domain knowledge in **Finance**.
+
+---
+
+## 💼 Experience
+
+- **Part-Time Accountant** — Tailored Accounts  
+- **Business Analyst Intern** — MentorMe  
+- **Data Analyst Intern** — MentorMe  
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/minnie-nguyen-125b59288/)  
+
+
+---
+
