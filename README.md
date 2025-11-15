@@ -18,9 +18,9 @@ I am passionate about contributing to a collaborative team environment while bui
 
 ## 💼 Experience
 
-- **Part-Time Accountant** — Tailored Accounts  
-- **Business Analyst Intern** — MentorMe  
-- **Data Analyst Intern** — MentorMe  
+- **Accountant** — Tailored Accounts  
+- **Business Analyst** — MentorMe  
+- **Data Analyst** — MentorMe  
 
 ---
 
