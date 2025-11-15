@@ -26,7 +26,8 @@ I am passionate about contributing to a collaborative team environment while bui
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/minnie-nguyen-125b59288/)  
+[LinkedIn](https://www.linkedin.com/in/minnie-nguyen-125b59288/) 
+My Gmail: minnienguyen1508@gmail.com
 
 
 ---
