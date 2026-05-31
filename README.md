@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minnie — Data Enthusiast from Canberra, ACT
+# 👋 Hi, I'm Minnie - Data Enthusiast from Canberra, ACT
 
 I am a third-year **Business Informatics** student majoring in **Data Science**, currently seeking a **Data Analysis internship/junior role** to gain hands-on industry experience and further strengthen my skills in data analysis and data visualization.
 
