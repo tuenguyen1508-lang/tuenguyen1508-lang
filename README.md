@@ -19,9 +19,9 @@ I am passionate about contributing to a collaborative team environment while bui
 
 ## 💼 Experience
 
-- **Accountant** — Tailored Accounts (Canberra - Onsite) 
-- **Business Analyst** — MentorMe (Sydney - Remote)
-- **Data Analyst** — MentorMe (Sydney - Remote)
+- **Accountant**: Tailored Accounts (Canberra, Onsite) 
+- **Business Analyst**: MentorMe (Sydney, Remote)
+- **Data Analyst**: MentorMe (Sydney, Remote)
 
 ---
 
