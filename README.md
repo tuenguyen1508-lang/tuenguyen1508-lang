@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tue Minh (also known as Minnie) - Data Enthusiast from Canberra, ACT
 
-I am a third-year **Business Informatics** student majoring in **Data Science**, currently seeking a **Data Analysis internship/junior role** to gain hands-on industry experience and further strengthen my skills in data analysis and data visualization.
+I am a fresh **Business Informatics** graduate majoring in **Data Science**, currently seeking a **Data Analysis internship/junior role** to gain hands-on industry experience and further strengthen my skills in data analysis and data visualization.
 
 I am passionate about contributing to a collaborative team environment while building a strong foundation for a future career as a **Data Analyst** and aspiring **Data Engineer**.
 
