@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minnie - Data Enthusiast from Canberra, ACT
+# 👋 Hi, I'm Tue Minh (also known as Minnie) - Data Enthusiast from Canberra, ACT
 
 I am a third-year **Business Informatics** student majoring in **Data Science**, currently seeking a **Data Analysis internship/junior role** to gain hands-on industry experience and further strengthen my skills in data analysis and data visualization.
 
@@ -20,16 +20,16 @@ I am passionate about contributing to a collaborative team environment while bui
 ## 💼 Experience
 
 - **Accountant**: Tailored Accounts (Canberra, Onsite) 
-- **Business Analyst**: MentorMe (Sydney, Remote)
-- **Data Analyst**: MentorMe (Sydney, Remote)
+- **Business Analyst**: MentorPlus (Sydney, Remote)
+- **Data Analyst**: MentorPlus (Sydney, Remote)
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/minnie-nguyen-125b59288/) 
+[LinkedIn]([https://www.linkedin.com/in/minnie-nguyen-125b59288/](https://www.linkedin.com/in/tue-minh-nguyen-125b59288/) 
 
-My Gmail: minnienguyen1508@gmail.com
+My Gmail: tuenguyen1508@gmail.com
 
 
 ---
